@@ -18,7 +18,7 @@ This is a simple Python script that converts text input into speech using the `p
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/text-to-speech-python.git
+    git clone https://github.com/Anitha-Chava/text-to-speech-python.git
     ```
 
 2. Navigate to the project directory:
